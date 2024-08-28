@@ -1,0 +1,6 @@
+projectKey=Therapy
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=Therapy
+ceTaskId=08e37fe7-733f-48b8-993b-9e300fb79b95
+ceTaskUrl=http://localhost:9000/api/ce/task?id=08e37fe7-733f-48b8-993b-9e300fb79b95
